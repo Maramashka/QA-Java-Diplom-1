@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93ee98c2-99ed-4c06-9366-d1698c622e0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/stellarburgers/Bun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stellarburgers/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stellarburgers/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stellarburgers/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stellarburgers/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stellarburgers/IngredientType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stellarburgers/Praktikum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stellarburgers/BunParamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stellarburgers/BurgerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stellarburgers/IngredientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stellarburgers/IngredientTypeTest.java" afterDir="false" />
+    <list default="true" id="93ee98c2-99ed-4c06-9366-d1698c622e0c" name="Changes" comment="redesigned the project">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +30,10 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "JUnit.BunParamTest.executor": "Run",
+    "JUnit.BurgerTest.executor": "Run",
+    "JUnit.IngredientTest.executor": "Run",
+    "JUnit.IngredientTypeTest.executor": "Run",
+    "Maven.QA-Java-Diplom-1 [clean,test].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop1",
     "kotlin-language-version-configured": "true",
@@ -58,6 +52,11 @@
       <recent name="stellarburgers" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean test" />
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +66,28 @@
       <option name="presentableId" value="Default" />
       <updated>1737107602329</updated>
     </task>
+    <task id="LOCAL-00001" summary="redesigned the project">
+      <option name="closed" value="true" />
+      <created>1737109075559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737109075559</updated>
+    </task>
+    <task id="LOCAL-00002" summary="redesigned the project">
+      <option name="closed" value="true" />
+      <created>1737110070393</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737110070393</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="redesigned the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="redesigned the project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
