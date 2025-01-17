@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>QA-Java-Diplom-1r</artifactId>
+    <artifactId>QA-Java-Diplom-1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -31,6 +31,11 @@
             <artifactId>junit</artifactId>
             <version>${junit.version}</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.assertj</groupId>
+            <artifactId>assertj-core</artifactId>
+            <version>3.24.2</version>
         </dependency>
     </dependencies>
 
@@ -74,6 +79,11 @@
                 <configuration>
                     <testFailureIgnore>true</testFailureIgnore>
                 </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-site-plugin</artifactId>
+                <version>3.12.1</version>
             </plugin>
         </plugins>
     </build>
