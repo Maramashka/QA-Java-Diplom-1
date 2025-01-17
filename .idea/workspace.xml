@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93ee98c2-99ed-4c06-9366-d1698c622e0c" name="Changes" comment="" />
+    <list default="true" id="93ee98c2-99ed-4c06-9366-d1698c622e0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/stellarburgers/Bun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stellarburgers/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stellarburgers/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stellarburgers/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stellarburgers/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stellarburgers/IngredientType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stellarburgers/Praktikum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stellarburgers/BunParamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stellarburgers/BurgerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stellarburgers/IngredientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stellarburgers/IngredientTypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,12 +38,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.BunParamTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop1",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Java/PracticumProjects/QA-Java-Diplom-1/src/main/java/stellarburgers",
     "onboarding.tips.debug.path": "C:/Java/PracticumProjects/QA-Java-Diplom-1/src/main/java/org/example/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\PracticumProjects\QA-Java-Diplom-1\src\main\java\stellarburgers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java\PracticumProjects\QA-Java-Diplom-1\src\test\java\stellarburgers" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="stellarburgers" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,7 +73,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/stellarburgers/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
