@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93ee98c2-99ed-4c06-9366-d1698c622e0c" name="Changes" comment="redesigned the project">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="93ee98c2-99ed-4c06-9366-d1698c622e0c" name="Changes" comment="won!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "JUnit.BunParamTest.executor": "Run",
     "JUnit.BurgerTest.executor": "Run",
     "JUnit.IngredientTest.executor": "Run",
@@ -46,6 +45,7 @@
       <recent name="C:\Java\PracticumProjects\QA-Java-Diplom-1\src\main\java\stellarburgers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java\PracticumProjects\QA-Java-Diplom-1\target" />
       <recent name="C:\Java\PracticumProjects\QA-Java-Diplom-1\src\test\java\stellarburgers" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -82,12 +82,30 @@
       <option name="project" value="LOCAL" />
       <updated>1737110070393</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="The battle for Jacoco (spoiler: lost)">
+      <option name="closed" value="true" />
+      <created>1737112118390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737112118390</updated>
+    </task>
+    <task id="LOCAL-00004" summary="won!">
+      <option name="closed" value="true" />
+      <created>1737113004121</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737113004121</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="redesigned the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="redesigned the project" />
+    <MESSAGE value="The battle for Jacoco (spoiler: lost)" />
+    <MESSAGE value="won!" />
+    <option name="LAST_COMMIT_MESSAGE" value="won!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
