@@ -6,6 +6,7 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 
 import static org.junit.Assert.assertEquals;
+import static stellarburgers.Constants.DELTA;
 import static stellarburgers.Constants.ERROR_MESSAGE;
 
 @RunWith(Parameterized.class)
@@ -60,6 +61,6 @@ public class BunParamTest {
         float expected = price;
         float actual = bun.getPrice();
 
-        assertEquals(ERROR_MESSAGE, expected, actual, 0.5);
+        assertEquals(ERROR_MESSAGE, expected, actual, DELTA);
     }
 }
